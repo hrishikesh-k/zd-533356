@@ -11,5 +11,5 @@ export default async function() {
 }
 
 export const config: Config = {
-  path: '/api/purge-2'
+  path: '/api/purge'
 }
